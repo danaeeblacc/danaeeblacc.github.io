@@ -1,11 +1,11 @@
 # Site settings
 author: Teinelle Charles
-title: 
+title: Coding in my heels
 header-img: img/home-bg.png
 email: teinelledcharles@gmail.com
 copyright_name: Teinelle Charles
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Just a babe coding 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  danaeeblacc
